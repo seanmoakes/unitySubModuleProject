@@ -1,0 +1,3 @@
+[submodule "Assets/usmpSubModule1"]
+	path = Assets/usmpSubModule1
+	url = https://github.com/seanmoakes/usmpSubModule1
